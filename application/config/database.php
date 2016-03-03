@@ -109,7 +109,7 @@ $db['tj_db'] = array(
 $db['kakou_db'] = array(
 	'dsn'	=> '',
 	'hostname' => '(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.47.187.123)(PORT=1521))(CONNECT_DATA=(SID=kakou)))',
-	'username' => '123',
+	'username' => '1234',
 	'password' => '123',
 	'database' => 'kakou',
 	'dbdriver' => 'oci8',
